@@ -1,4 +1,4 @@
-# HIREYOO API MONGGO EXPRESS
+# BINARY PRODUCT API MONGGO EXPRESS
 
 
 I then containerized the api server and react client and created docker-compose to connect them.
